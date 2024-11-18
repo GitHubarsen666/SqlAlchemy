@@ -1,0 +1,3 @@
+sqlalchemy
+flask-sqlalchemy
+marshmallow==3.23.1
